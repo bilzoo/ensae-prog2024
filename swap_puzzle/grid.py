@@ -113,4 +113,3 @@ class Grid():
             grid = Grid(m, n, initial_state)
         return grid
 
-
