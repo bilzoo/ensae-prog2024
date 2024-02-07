@@ -1,4 +1,4 @@
-from grid import Grid
+from tests.grid import Grid
 
 class Solver(): 
     """
